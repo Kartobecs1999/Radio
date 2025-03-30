@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Tizi Ouzou
-#EXTIMG: https://drive.google.com/file/d/1MTmOJ5ETmUy3SriGo3XUfcIIHnqFSao4/view?usp=sharing
+#EXTINF:-1,
+tvg-logo="https://drive.google.com/file/d/1MTmOJ5ETmUy3SriGo3XUfcIIHnqFSao4/view?usp=sharing",Tizi Ouzou 
 https://webradio.tda.dz/TiziOuzou_64K.mp3
 #EXTINF:-1,ElBahdja
 #EXTIMG: https://drive.google.com/file/d/17gk59H2kpxiUxSNIaDnTamlgtSjDkIoK/view?usp=sharing
