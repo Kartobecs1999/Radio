@@ -1,20 +1,27 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://drive.google.com/file/d/1MTmOJ5ETmUy3SriGo3XUfcIIHnqFSao4/view?usp=sharing",Tizi Ouzou 
-https://webradio.tda.dz/TiziOuzou_64K.mp3
-#EXTINF:-1,ElBahdja
-#EXTIMG: https://drive.google.com/file/d/17gk59H2kpxiUxSNIaDnTamlgtSjDkIoK/view?usp=sharing
-https://webradio.tda.dz/ElBahdja_64K.mp3
-#EXTINF:-1,Coran
-#EXTIMG: https://drive.google.com/file/d/10peWwADF9CvQgp2FjwSWkcNPbfJHtsuv/view?usp=sharing
-https://webradio.tda.dz/Coran_64K.mp3
+https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3
+#EXTINF:-1, Bejaia
+https://radiobejaia.ice.infomaniak.ch/bejaia.mp3
 #EXTINF:-1,Chaine 2
 #EXTIMG: https://drive.google.com/file/d/1fEqK_QFslDLEQeowVM9eYoF0LnkZOUeL/view?usp=sharing
-https://webradio.tda.dz/Chaine2_64K.mp3
+https://radiochaine2.ice.infomaniak.ch/chaine2.mp3
+#EXTINF:-1, Chaine 3
+https://radiochaine3.ice.infomaniak.ch/chaine3.mp3
+#EXTINF:-1,ElBahdja
+#EXTIMG: https://drive.google.com/file/d/17gk59H2kpxiUxSNIaDnTamlgtSjDkIoK/view?usp=sharing
+https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3
+#EXTINF:-1, Jil FM
+https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3
+#EXTINF:-1,Coran
+#EXTIMG: https://drive.google.com/file/d/10peWwADF9CvQgp2FjwSWkcNPbfJHtsuv/view?usp=sharing
+https://radiocoran.ice.infomaniak.ch/coran.mp3
 #EXTINF:-1, Quran Radio Tafsir
 #EXTIMG: https://drive.google.com/file/d/1-vOJEug1lTH5LubZfI5VcQEbLsKkfN-x/view?usp=sharing
 https://radio.quranradiotafsir.com/9992/stream
-#EXTINF:-1, Tizi Ouzou 2
-https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3
+
+
+
 
 
 
